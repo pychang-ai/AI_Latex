@@ -87,15 +87,3 @@ Po-Yin Chang
 
 ## 📄 授權
 MIT License
-```
-
----
-
-### **2. 建立專案架構圖**
-
-在 `images/` 資料夾放入圖片（兩種方式）：
-
-**方式 A：手動截圖**
-1. 建立資料夾：
-````powershell
-mkdir images
