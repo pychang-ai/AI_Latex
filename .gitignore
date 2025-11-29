@@ -1,0 +1,19 @@
+# LaTeX 暫存檔
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# PDF 輸出（可選，若不想上傳 PDF 就加入）
+# main.pdf
+
+# VS Code
+.vscode/
+
+# Python 快取（若有 Python 程式）
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
